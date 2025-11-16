@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1033" height="548" alt="image" src="https://github.com/user-attachments/assets/ad3169e0-6184-49b8-8e75-0ff459b832b3" />
+
+<img width="1025" height="543" alt="image" src="https://github.com/user-attachments/assets/c22948fb-d146-4efe-9793-e58181f82b93" />
+
+
+### Name: NITHIYANERANJAN S
+### Register Number:212223040136
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
